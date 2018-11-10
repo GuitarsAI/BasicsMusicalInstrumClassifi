@@ -1,0 +1,6 @@
+librosa
+python
+numpy
+seaborn
+scipy
+seaborn
