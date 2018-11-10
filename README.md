@@ -20,7 +20,7 @@ For the requirements for this project to run, please check the following files a
   - environment.yml
   - postBuild
   
-# Dataset: Philarmonia Orchestra Sound Samplea
+# Dataset: Philarmonia Orchestra Sound Samples
 Website: http://www.philharmonia.co.uk/explore/sound_samples" <br>
 
 # MyBinder
