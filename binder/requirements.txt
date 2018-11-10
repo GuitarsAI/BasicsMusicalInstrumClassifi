@@ -1,5 +1,4 @@
 librosa
-python
 numpy
 seaborn
 scipy
