@@ -9,23 +9,23 @@ Linkedin: https://www.linkedin.com/in/renato-profeta-6b678831/ <br>
 Youtube: https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ
 
 # Youtube Playlist
-<br>
+https://www.youtube.com/playlist?list=PL6QnpHKwdPYg2MzpQZIxpT1Qg51kquJty <br>
 
 # Content
-
+ - The Very Basics of Musical Instruments Classification: MFCC, kNN [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassif.ipynb)
 
 # Requirements
 For the requirements for this project to run, please check the following files at the 'binder' folder:
   - apt.txt
-  - environment.yml
+  - requirements.txt
   - postBuild
   
 # Dataset: Philarmonia Orchestra Sound Samples
-Website: http://www.philharmonia.co.uk/explore/sound_samples" <br>
+Website: http://www.philharmonia.co.uk/explore/sound_samples <br>
 
 # MyBinder
 
-Launch Binder to Interact with the notebooks in a live environment in the cloud:
+Launch Binder to Interact with the notebooks in a live environment in the cloud:[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master)
 
 
 # Guitars.AI
