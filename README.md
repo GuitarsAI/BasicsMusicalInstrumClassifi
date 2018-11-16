@@ -13,7 +13,7 @@ https://www.youtube.com/playlist?list=PL6QnpHKwdPYg2MzpQZIxpT1Qg51kquJty <br>
 
 # Content
  - The Very Basics of Musical Instruments Classification I: MFCC, kNN [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifkNN.ipynb)
-  - The Very Basics of Musical Instruments Classification II: MFCC, SVM [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifkNN.ipynb)
+  - The Very Basics of Musical Instruments Classification II: MFCC, SVM [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifSVM.ipynb)
 
 # Requirements
 For the requirements for this project to run, please check the following files at the 'binder' folder:
