@@ -1,2 +1,3 @@
 unzip ./audio/*.zip -d ./audio
 jupyter trust BasicsMusicaInstrumentsClassifkNN.ipynb
+jupyter trust BasicsMusicaInstrumentsClassifSVM.ipynb
