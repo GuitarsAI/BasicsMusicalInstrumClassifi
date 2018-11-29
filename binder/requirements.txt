@@ -5,3 +5,4 @@ numpy
 seaborn
 scipy
 seaborn
+pydot
