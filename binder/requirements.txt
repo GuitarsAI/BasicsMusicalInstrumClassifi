@@ -6,4 +6,4 @@ seaborn
 scipy
 seaborn
 pydot
-python-graphviz
+graphviz
