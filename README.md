@@ -16,6 +16,7 @@ https://www.youtube.com/playlist?list=PL6QnpHKwdPYg2MzpQZIxpT1Qg51kquJty <br>
  - I: MFCC, kNN [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifkNN.ipynb)
   - II: MFCC, SVM [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifSVM.ipynb)
   - III: MFCC, SVM with Grid Search [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifSVMGridSearch.ipynb)
+  - IV: MFCC, A Gentle Introduction to Deep Learning using Keras Part 1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifDNKeras1.ipynb)
 
 # Requirements
 For the requirements for this project to run, please check the following files at the 'binder' folder:
