@@ -1,2 +1,3 @@
 apt-utils
 ffmpeg
+python-graphviz
