@@ -12,7 +12,7 @@ Youtube: https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ
 https://www.youtube.com/playlist?list=PL6QnpHKwdPYg2MzpQZIxpT1Qg51kquJty <br>
 
 # Content
-## The Very Basiccs of Musital Instruments Classification
+## The Very Basiccs of Musical Instruments Classification
  - I: MFCC, kNN [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifkNN.ipynb)
   - II: MFCC, SVM [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifSVM.ipynb)
   - III: MFCC, SVM with Grid Search [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BasicsMusicalInstrumClassifi/master?filepath=BasicsMusicaInstrumentsClassifSVMGridSearch.ipynb)
