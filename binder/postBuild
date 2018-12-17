@@ -3,3 +3,4 @@ jupyter trust BasicsMusicaInstrumentsClassifkNN.ipynb
 jupyter trust BasicsMusicaInstrumentsClassifSVM.ipynb
 jupyter trust BasicsMusicaInstrumentsClassifSVMGridSearch.ipynb
 jupyter trust BasicsMusicaInstrumentsClassifDNKeras1.ipynb
+juyter trust BasicsMusicaInstrumentsClassifDNKeras2GridSearch.ipynb
