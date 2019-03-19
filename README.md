@@ -9,7 +9,8 @@ Linkedin: https://www.linkedin.com/in/renato-profeta-6b678831/ <br>
 Youtube: https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ
 
 # Youtube Playlist
-https://www.youtube.com/playlist?list=PL6QnpHKwdPYg2MzpQZIxpT1Qg51kquJty <br>
+[![Everything Is AWESOME](https://img.youtube.com/vi/p_IU6uRqHvE/0.jpg)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYg2MzpQZIxpT1Qg51kquJty)
+ <br>
 
 # Content
 ## The Very Basiccs of Musical Instruments Classification
