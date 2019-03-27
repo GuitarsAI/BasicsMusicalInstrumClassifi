@@ -1,3 +1,6 @@
 apt-utils
 ffmpeg
 graphviz
+sox 
+libsox-dev 
+libsox-fmt-all
