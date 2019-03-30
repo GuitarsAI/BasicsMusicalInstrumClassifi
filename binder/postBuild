@@ -1,5 +1,5 @@
 unzip ./audio/*.zip -d ./audio
-pip3 install git+git://github.com/pytorch/audio
+pip install git+git://github.com/pytorch/audio
 jupyter trust *.ipynb
 #jupyter trust BasicsMusicaInstrumentsClassifkNN.ipynb
 #jupyter trust BasicsMusicaInstrumentsClassifSVM.ipynb
