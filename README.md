@@ -29,7 +29,7 @@ For the requirements for this project to run, please check the following files a
   - postBuild
   
 # Dataset: Philarmonia Orchestra Sound Samples
-Website: http://www.philharmonia.co.uk/explore/sound_samples <br>
+Website: https://philharmonia.co.uk/resources/sound-samples/ <br>
 
 # MyBinder
 
